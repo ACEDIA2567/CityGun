@@ -1,7 +1,7 @@
 # 스폰봇
 
 ## 스폰봇 시스템 설계도
-![스폰봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/4446047c-0d30-4b1a-ba7a-9f746ab9e75e)
+![스폰봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/861ce42a-27ed-4479-8896-25542751831e)
 
 ## 스폰봇 설정
 ### 사진
