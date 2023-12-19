@@ -1,4 +1,4 @@
-# 스폰봇
+# [스폰봇](../README.md)
 
 ## 스폰봇 시스템 설계도
 ![스폰봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/861ce42a-27ed-4479-8896-25542751831e)
