@@ -1,4 +1,4 @@
-# [인베이더봇](CityGun/README.md)
+# [인베이더봇](../README.md)
 
 ## 인베이더봇 시스템 설계도
 ![인베이더봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/9b2e6e28-1f9b-4c9c-bd3f-8b7f6cf86284)
