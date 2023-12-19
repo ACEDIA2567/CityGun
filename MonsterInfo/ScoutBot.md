@@ -1,4 +1,4 @@
-# 스카우트봇
+# [스카우트봇](../README.md)
 
 ## 스카우트봇 시스템 설계도
 ![스카우트봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/3a7e5527-0eda-4d32-8a87-279ae1518ecc)
