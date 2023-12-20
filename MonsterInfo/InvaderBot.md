@@ -8,6 +8,9 @@
 스카우트 봇은 공중 유닛으로 공중에서 플레이어를 추격하며   
 플레이어가 고층 건물로 올라가면 탄을 발사하여 플레이어를 공격한다.
 
+## 에셋 정보
+### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/robot-sphere-136226](https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-drones-90326
+
 ## 사진
 |앞 모습|옆 모습|
 |:---:|:---:|
