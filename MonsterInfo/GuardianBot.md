@@ -3,7 +3,11 @@
 ## 가디언봇 시스템 설계도
 ![가디언봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/ad348a56-18ec-41b0-92ae-3ba77d78974a)
 
-## 가디언봇 설정
+## 에셋 정보
+### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-drones-90326
+
+## 몬스터 설정
+### 등장조건: 게임 시작 15분 후
 
 
 ## 몬스터 정보
