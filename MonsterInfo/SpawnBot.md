@@ -16,7 +16,7 @@
 ### 사진
 |앞 모습|옆 모습|
 |:---:|:---:|
-|![image](https://github.com/ACEDIA2567/CityGun/assets/101154683/50b3d4fe-b41d-47fa-aa11-e291e8fbd83e)|![20231220_161815](https://github.com/ACEDIA2567/CityGun/assets/101154683/1255035a-d7c3-4318-823b-a9e0a1470dab)|
+|![20231220_161749](https://github.com/ACEDIA2567/CityGun/assets/101154683/2f6023b4-c40b-4e26-bcff-1160153c14fa)|![20231220_161815](https://github.com/ACEDIA2567/CityGun/assets/101154683/1255035a-d7c3-4318-823b-a9e0a1470dab)|
 
 #### 몬스터 강화 전
 |체력|점수|경험치|이동속도|
