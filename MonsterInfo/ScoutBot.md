@@ -9,7 +9,13 @@
 스카우트봇은 플레이어를 향해 공격을 하지 않고 등장을 하면 목표 Y좌표까지 수직 상승을 시작한다.    
 상승을 하면 멈춰서 인베이더봇을 소환하게 한다.
 
+## 에셋 정보
+### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-drones-90326
+
 ## 사진
+|앞 모습|옆 모습|
+|:---:|:---:|
+|![20231220_160756](https://github.com/ACEDIA2567/CityGun/assets/101154683/38e6e4dd-fc3e-49eb-91d7-5f3580c809f7)|![20231220_160818](https://github.com/ACEDIA2567/CityGun/assets/101154683/1fdf5386-aa06-4cd9-9441-2cf2a1eb0ee5)|
 
 
 ## 몬스터 정보
