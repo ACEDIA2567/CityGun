@@ -11,7 +11,10 @@
 ## 에셋 정보
 ### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/robot-sphere-136226
 
-### 사진
+## 사진
+|앞 모습|옆 모습|
+|:---:|:---:|
+|![20231220_155342](https://github.com/ACEDIA2567/CityGun/assets/101154683/2d1c0e36-1eda-46db-978a-6be0847f0bb5)|![20231220_155525](https://github.com/ACEDIA2567/CityGun/assets/101154683/7e0cd9fe-1d31-4d78-a0ed-b1ae92bea7ea)|
 
 ## 몬스터 정보
 이동속도는 피격된 후 증가이므로 증가량 별도 표시
