@@ -9,9 +9,15 @@
 자신의 다리를 이용하여 플레이어를 공격한다. 
 자신의 피가 5이하로 떨어지면 자신의 앞으로 박스를 설치하여 스카우트봇을 소환한다.
 
-### 사진
+## 에셋 정보
+### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/delivery-robot-185414
 
 ## 몬스터 정보
+### 사진
+|앞 모습|옆 모습|
+|:---:|:---:|
+|![image](https://github.com/ACEDIA2567/CityGun/assets/101154683/50b3d4fe-b41d-47fa-aa11-e291e8fbd83e)|![20231220_161815](https://github.com/ACEDIA2567/CityGun/assets/101154683/1255035a-d7c3-4318-823b-a9e0a1470dab)|
+
 #### 몬스터 강화 전
 |체력|점수|경험치|이동속도|
 |:---:|:---:|:---:|:---:|
