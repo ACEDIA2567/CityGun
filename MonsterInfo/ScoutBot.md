@@ -12,19 +12,19 @@
 ## 에셋 정보
 ### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-drones-90326
 
-## 사진
+## 몬스터 정보
+### 사진
 |앞 모습|옆 모습|
 |:---:|:---:|
 |![20231220_160756](https://github.com/ACEDIA2567/CityGun/assets/101154683/38e6e4dd-fc3e-49eb-91d7-5f3580c809f7)|![20231220_160818](https://github.com/ACEDIA2567/CityGun/assets/101154683/1fdf5386-aa06-4cd9-9441-2cf2a1eb0ee5)|
 
 
-## 몬스터 정보
-#### 몬스터 강화 전
+### 몬스터 강화 전
 |체력|점수|경험치|이동속도|
 |:---:|:---:|:---:|:---:|
 |5|5|3|3|
 
-#### 몬스터 강화 후 (강화를 하지 않음)
+### 몬스터 강화 후 (강화를 하지 않음)
 
 
 
