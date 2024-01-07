@@ -39,7 +39,7 @@
 ### 4. [인베이더 봇](MonsterInfo/InvaderBot.md)
 
 ## 보스 소개
-### 1. [가디언 봇](MonsterInfo/GuaridanBot.md)
+### 1. [가디언 봇](MonsterInfo/GuardianBot.md)
 ### 2. [로키 봇](MonsterInfo/Rockie.md)
 
 ## 시스템 소개
