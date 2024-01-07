@@ -1,7 +1,7 @@
-# 로키봇(보스)
+# 로키봇
 
 ## 로키봇 시스템 설계도
-![가디언봇 drawio](https://github.com/ACEDIA2567/CityGun/assets/101154683/ad348a56-18ec-41b0-92ae-3ba77d78974a)
+![제목 없는 다이어그램](https://github.com/ACEDIA2567/CityGun/assets/101154683/99b031e5-ca0c-4dd4-bf79-c549bebf595d)
 
 ## 에셋 정보
 ### 유니티 에셋 스토어: https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-drones-90326
