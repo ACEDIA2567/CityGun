@@ -31,8 +31,8 @@
 #### [UI 설명](System/UI%20설명.md)
 
 ## 시스템 소개
-### 1. 레벨
-### 2. 어빌리티
+### [1. 레벨](PlayerInfo/플레이어%20레벨.md)
+### [2. 어빌리티](PlayerInfo/플레이어%20어빌리티.md)
 
 ## 몬스터 소개
 ### 1. [볼 봇](MonsterInfo/BallBot.md)
@@ -46,11 +46,15 @@
 
 ## 그래픽 및 사운드
 ### 그래픽
-#### 맵
-#### 파티클
+#### [맵 설명](System/맵%20설명.md)
+#### 파티클 가져온 사이트: 
+#### https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611 / https://assetstore.unity.com/packages/vfx/particles/legacy-particle-pack-73777
+
 
 ### 사운드
-#### 몬스터: 움직이는 몬스터의 경우에는 3D사운드를 입혀 후방에서 다가오는 적을 플레이어  ㅇㄴㅁㅇㅁㄴ
+#### 일반 몬스터: 움직이는 동적의 몬스터의 몬스터이므로 3D사운드를 설정
+#### 보스 몬스터: 움직이지 않는 정적의 몬스터이므로 2D사운드를 설정
+#### 사운드 가져온 사이트: https://pixabay.com/ko/sound-effects/
 
 ## 개발 일정
 ### 23년 8월 ~ 23년 12월
