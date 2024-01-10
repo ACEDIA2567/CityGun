@@ -100,6 +100,11 @@ public class RoBotStatus : MonoBehaviour
             {
                 // 죽으면 사운드클립이 사라지므로 AudioSource.PlayClipAtPoint를 사용하여 죽어도 사운드가 들리게 함
                 AudioSource.PlayClipAtPoint(DeadSound, transform.position);
+                // Scout봇이 죽는다면 Spawner에서 ScoutUpCheck를 다시 false 시킴
+                if (this.gameObject.name == "Robot_Scout(Clone)")
+                {
+                    EnemySpawner.GetComponent<Spawner>().ScoutUpCheck = false;
+                }
                 Destroy(gameObject);
             }
         }
@@ -174,5 +179,6 @@ public class RoBotStatus : MonoBehaviour
         }
     }
 }
+
 
 ```
