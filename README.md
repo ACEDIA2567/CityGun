@@ -50,12 +50,12 @@
 ### [맵](System/맵%20설명.md)
 ### 파티클 가져온 사이트: <br/>https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611 / https://assetstore.unity.com/packages/vfx/particles/legacy-particle-pack-73777
 
-<hr>
-
 ## 사운드    
 ### 일반 몬스터: 움직이는 동적의 몬스터의 몬스터이므로 3D사운드를 설정
 ### 보스 몬스터: 움직이지 않는 정적의 몬스터이므로 2D사운드를 설정
 ### 사운드 가져온 사이트: https://pixabay.com/ko/sound-effects/
+
+
 
 ## 개발 일정
 ### 23년 8월 ~ 23년 12월
