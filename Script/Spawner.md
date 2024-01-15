@@ -94,7 +94,7 @@ public class Spawner : MonoBehaviour
     private void EnemyRandomSpawn(GameObject Enemy, Vector3 Spawner1, Vector3 Spawner2, Vector3 Spawner3, Vector3 Spawner4)
     {
         // 적 스폰
-        if (EnemyCount < 60) // 60마리가 넘을 시에 적을 스폰하지 않음
+        if (EnemyCount < 60 || Enemy == Enemys[2]) // 60마리가 넘을 시에 적을 스폰하지 않음
         {
             EnemyCount += 1.0f;
             switch (RandomSpawner) // 매개변수에 있는 몬스터를 스폰하고 시간에 따라서 체력과 경험치량 증가
@@ -166,8 +166,7 @@ public class Spawner : MonoBehaviour
         }
     }
 
-
-
 }
+
 
 ```
