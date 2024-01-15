@@ -91,7 +91,10 @@ public class RoBotStatus : MonoBehaviour
             EnemySpawner.GetComponent<ScoreUI>().EnemyScore += EnemyScoreAdd;   // 플레이어의 EnemyScore 현재 로봇의 EnemyScoreAdd만큼 더해진다.
             particleObject.transform.position = transform.position;
             particleObject.Play();
-            EnemySpawner.GetComponent<Spawner>().EnemyCount -= 1.0f;            // 몬스터 현재 총 개체수를 줄임
+            if (name != "Robot_Invader(Clone)")
+            {
+                EnemySpawner.GetComponent<Spawner>().EnemyCount -= 1.0f;            // 몬스터 현재 총 개체수를 줄임
+            }
             if (this.gameObject.tag == "RoBot1") // 태그가 RoBot1인 경우는 비활성화만 시킴
             {
                 this.gameObject.SetActive(false);
@@ -116,6 +119,7 @@ public class RoBotStatus : MonoBehaviour
         // 충돌체의 태그가 Player이면서 현재 오브젝트의 이름이 robotSphere(Clone)이라면
         if (other.gameObject.tag == "Player" && transform.gameObject.name == "robotSphere(Clone)")
         {
+            AudioSource.PlayClipAtPoint(DeadSound, transform.position, 0.2f);
             Attack(1.0f);
             Destroy(this.gameObject);
         }
@@ -179,6 +183,5 @@ public class RoBotStatus : MonoBehaviour
         }
     }
 }
-
 
 ```
