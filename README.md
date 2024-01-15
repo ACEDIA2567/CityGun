@@ -90,7 +90,7 @@
 <br/>
 
 ## 그래픽    
-### [맵](System/맵%20설명.md)
+### [맵 설명](System/맵%20설명.md)
 ### 파티클 에셋 사이트:
 #### 1. https://assetstore.unity.com/packages/vfx/shaders/ultimate-10-shaders-168611
 #### 2. https://assetstore.unity.com/packages/vfx/particles/legacy-particle-pack-73777
