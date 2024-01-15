@@ -22,6 +22,10 @@
 |:---:|:---:|
 |![20231221_035318](https://github.com/ACEDIA2567/CityGun/assets/101154683/04a13f95-81b9-46a5-bafb-0be8d6fc7fbe)|![20231221_035353](https://github.com/ACEDIA2567/CityGun/assets/101154683/769a1bca-2cf0-4b80-a415-ea045bf2fab0)|
 
+### 보스의 체력 UI
+![20240110_213011](https://github.com/ACEDIA2567/CityGun/assets/101154683/204916ec-da09-4834-aca7-64b1c122d05c)
+
+### 보스 정보
 |체력|점수|경험치|이동속도|
 |:---:|:---:|:---:|:---:|
 |1000|X|X|X|
