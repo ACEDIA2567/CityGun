@@ -1,3 +1,4 @@
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,6 +14,11 @@ public class GameStartScene : MonoBehaviour
         SceneManager.LoadScene("InGameScene");
     }
 
+    public void GameQuit()
+    {
+        Application.Quit();
+    }
+
     public void GameOperation()
     {
         Operation.SetActive(true);
@@ -23,3 +29,5 @@ public class GameStartScene : MonoBehaviour
         }
     }
 }
+
+```
