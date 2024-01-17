@@ -30,6 +30,7 @@ public class BlueVariant : MonoBehaviour
         Agent = GetComponent<NavMeshAgent>();
         Status = GetComponent<RoBotStatus>();
         audioSource = GetComponent<AudioSource>();
+        anim.SetBool("Walking", true);
     }
 
     public void Update()
@@ -42,11 +43,13 @@ public class BlueVariant : MonoBehaviour
         // 플레이어를 쫓게함
         Agent.SetDestination(Status.player.transform.position); 
         // 플레이어와의 거리가 1.5이하이면서 현재 애니메이션이 BoxDown이 아니라면
-        if (Agent.remainingDistance <= 1.5 && !anim.GetCurrentAnimatorStateInfo(0).IsName("BoxDown"))
+        if (Agent.remainingDistance != 0 && Agent.remainingDistance <= 1.5 && !anim.GetCurrentAnimatorStateInfo(0).IsName("BoxDown"))
         {
             // 걷는 애니메이션 중단 후 공격 애니메이션 작동
             anim.SetBool("Attack", true);
             anim.SetBool("Walking", false);
+            Debug.Log("공격 중");
+            Debug.Log(Agent.remainingDistance);
             Agent.speed = 0;
             audioSource.Stop();
         }
