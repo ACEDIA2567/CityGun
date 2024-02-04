@@ -77,7 +77,8 @@
 
 <br/>
 
-## 몬스터 소개(흐름도 및 정보)
+## 몬스터 소개
+## 흐름도와 몬스터 정보
 ### 1. [볼 봇](MonsterInfo/BallBot.md)
 ### 2. [스폰 봇](MonsterInfo/SpawnBot.md)
 ### 3. [스카우트 봇](MonsterInfo/ScoutBot.md)
@@ -86,7 +87,8 @@
 
 <br/>
 
-## 보스 소개(흐름도 및 정보)
+## 보스 소개
+## 흐름도와 보스 정보
 ### 1. [가디언 봇](MonsterInfo/GuardianBot.md)
 
 <br/>
