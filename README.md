@@ -26,7 +26,7 @@
 <br/>
 
 ## 게임 다운로드 링크 및 플레이 영상
-### 다운로드 주소 : https://drive.google.com/file/d/1TCpMh7mbiDp-Ige4HLQx5D4PLLzp9Dni/view?usp=drive_link </br> (압축풀기 -> 폴더 안에서 CityGun.exe 실행)
+### 다운로드 주소 : https://drive.google.com/file/d/1uQpqcbx_uJ4q3faco6YbcdNhPNQqchrG/view?usp=sharing </br> (폴더 안에서 CityGun.exe 실행)
 ### 플레이 영상 : https://youtu.be/5Kmw4vP7V-U
 
 <br/>
